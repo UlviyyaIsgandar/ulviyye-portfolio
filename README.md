@@ -26,7 +26,6 @@ Dashboard aşağıdakı bölmələrdən ibarətdir:
 
 - Ümumi statistika (KPI-lar)
 - Model üzrə filter
-- Navigation button-lar
 - Qiymət üzrə analiz
 - Şəhər, rəng və yanacaq növü üzrə analiz
 
